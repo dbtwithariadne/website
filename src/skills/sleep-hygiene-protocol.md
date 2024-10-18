@@ -1,8 +1,8 @@
 ﻿### DBT - Sleep Hygiene Protocol - Emotion Regulation Handout 20
 
-[DBT Skills Training Handouts and Worksheets, Second Edition](https://behavioraltech.org/store/books/dbt-skills-training-handouts-and-worksheets-second-edition/).* 
+[DBT Skills Training Manual, 2nd Ed. Marsha M. Linehan (2015) New York](https://doi.org/10.1097/nmd.0000000000000387)
 
-Dr. Marsha Linehan -- **Emotional Regulation Handout 20B** pg. 259
+**Emotional Regulation Handout 20B** pg. 259
 
 ----------------------------
 	
