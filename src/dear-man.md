@@ -74,5 +74,3 @@ Give to get, reduce the request, say no, but offer to do something else, focus o
 ---------------------
 
 v2.3 - Last edit 4-Jan-2025
-
-**redirect:** dbtwithariadne.com/dear-man

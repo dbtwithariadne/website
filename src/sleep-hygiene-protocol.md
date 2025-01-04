@@ -44,5 +44,3 @@ When You Can’t Sleep, What to Do Instead of Ruminating
 ---------------------
 
 v1.3 - Last edit 4-Jan-2025
-
-**redirect:** dbtwithariadne.com/sleep-hygiene-protocol
