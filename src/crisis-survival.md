@@ -8,13 +8,13 @@ The chart is meant to serve as a printable shorthand in-crisis reminder to use s
 
 ![DBT Crisis Survival](images/dbt-crisis-survival-flow-chart-v113.png)
 
-[DBT Crisis Survival - LucidChart](https://lucid.app/lucidchart/e1408047-dec9-4ef1-84b5-cc7e88173c39/view?page=0_0#)
+[DBT Crisis Survival - draw.io](drawio-charts/dbtwithariadne-crisis-survival-skills.drawio)
 
 Print as PDF or duplicate (needs free account), remix, and share via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ![Template - DBT Crisis Survival](images/dbt-crisis-survival-flow-chart-template-v113.png)
 
-[Template - DBT Crisis Survival - LucidChart](https://lucid.app/lucidchart/d015d48a-7b26-411d-bfdc-293ced10ebe2/view?page=0_0#)
+[Template - DBT Crisis Survival - draw.io](drawio-charts/dbtwithariadne-crisis-survival-skills-template.drawio)
 
 Print as PDF or duplicate (needs free account), remix, and share via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
