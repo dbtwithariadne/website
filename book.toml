@@ -5,4 +5,3 @@ author = "Ariadne"
 [output.html]
 cname = "dbtwithariadne.com"
 git-repository-url = "https://github.com/dbtwithariadne/skills"
-src = "the-website-lives-here-as-mdbook-src"
