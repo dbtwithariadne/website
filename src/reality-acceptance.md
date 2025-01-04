@@ -1,8 +1,8 @@
-This is a DBT Reality Acceptance chart, based in part on Marsha Lineham's book.
+# DBT Reality Acceptance Skills
+
+This is a DBT Reality Acceptance Skills flowchart. It uses the skills from Marsha Linehan's book.
 
 The chart is meant to serve as a printable shorthand to help re-train behavior to ease day-to-day emotional turmoil.
-
-The skills and how to use the skills are found in the DBT skills manual.
 
 ![DBT Reality Acceptance Chart](images/dbt_reality_acceptance_chart_v15.png)
 
