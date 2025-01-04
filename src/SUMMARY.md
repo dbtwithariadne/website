@@ -1,7 +1,7 @@
 # DBT
 
-[Crisis Survival](skills/crisis-survival.md)
-[DEAR MAN](skills/dear-man.md)
-[Should I End This Relationship](skills/should-i-end-this-relationship.md)
-[Sleep Hygiene Protocol](skills/sleep-hygiene-protocol.md)
-[Reality Acceptance](skills/reality-acceptance.md)
+[Crisis Survival](crisis-survival.md)
+[DEAR MAN](dear-man.md)
+[Should I End This Relationship](should-i-end-this-relationship.md)
+[Sleep Hygiene Protocol](sleep-hygiene-protocol.md)
+[Reality Acceptance](reality-acceptance.md)
