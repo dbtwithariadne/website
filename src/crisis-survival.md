@@ -6,7 +6,7 @@ I made it for my fridge, because when I'm in crisis, I can't really remember any
 
 The chart is meant to serve as a printable shorthand in-crisis reminder to use skills vs *making the crisis worse.*
 
-![DBT Crisis Survival](images/dbtwithariadne-crisis-survival-skills.drawio-v25.png)
+![DBT Crisis Survival](images/dbtwithariadne-crisis-survival-skills.drawio.png)
 
 [DBT Crisis Survival - draw.io](drawio-charts/dbtwithariadne-crisis-survival-skills.drawio)
 
