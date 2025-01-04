@@ -1,6 +1,7 @@
 [book]
 title = "DBT With Ariadne"
+author = "Ariadne Haske"
 
 [output.html]
 git-repository-url = "https://github.com/dbtwithariadne/skills"
-site-url = "/skills/"
+site-url = "https://www.dbtwithariadne.com"
