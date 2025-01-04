@@ -70,3 +70,9 @@ Use a confident tone of voice, make eye contact, an assertive posture.
 
 ## Negotiate
 Give to get, reduce the request, say no, but offer to do something else, focus on what would work.
+
+---------------------
+
+v2.3 - Last edit 4-Jan-2025
+
+**redirect:** dbtwithariadne.com/dear-man

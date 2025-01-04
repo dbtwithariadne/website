@@ -28,4 +28,6 @@ Download the file, then edit via [draw.io](https://app.diagrams.net/).
 
 v2.2 - Last edit 4-Jan-2025
 
+**redirect:** dbtwithariadne.com/crisis-survival
+
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)

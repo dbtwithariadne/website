@@ -41,4 +41,8 @@ When You Can’t Sleep, What to Do Instead of Ruminating
 
 **If nothing else works,** with eyes closed, listen to public radio (BBC, NPR , etc.) at low volume (use headphones if necessary). Public radio is a good choice for this, because there is little fluctuation in voice tone or volume.
 
-v1.2 17-Oct-2024
+---------------------
+
+v1.3 - Last edit 4-Jan-2025
+
+**redirect:** dbtwithariadne.com/sleep-hygiene-protocol

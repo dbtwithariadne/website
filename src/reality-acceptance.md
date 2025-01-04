@@ -4,7 +4,7 @@ This is a DBT Reality Acceptance Skills flowchart. It uses the skills from Marsh
 
 The chart is meant to serve as a printable shorthand to help re-train behavior to ease day-to-day emotional turmoil.
 
-![DBT Reality Acceptance Chart](images/dbt_reality_acceptance_chart_v15.png)
+![DBT Reality Acceptance Chart](images/dbtwithariadne-reality-acceptance-skills.drawio-v22.png)
 
 [DBT Reality Acceptance - draw.io](drawio-charts/dbtwithariadne-reality-acceptance-skills.drawio)
 
@@ -18,6 +18,8 @@ Download the file, then edit via [draw.io](https://app.diagrams.net/).
 
 ---------------------------------
 
-v2.2 - Last edit 4-Jan-2025 
+v2.2 - Last edit 4-Jan-2025
+
+**redirect** dbtwithariadne.com/reality-acceptance
  
 This work is dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
