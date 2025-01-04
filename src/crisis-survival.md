@@ -10,13 +10,13 @@ The chart is meant to serve as a printable shorthand in-crisis reminder to use s
 
 [DBT Crisis Survival - draw.io](drawio-charts/dbtwithariadne-crisis-survival-skills.drawio)
 
-Print as PDF or duplicate (needs free account), remix, and share via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Download the file, then edit via [draw.io](https://app.diagrams.net/).
 
 ![Template - DBT Crisis Survival](images/dbt-crisis-survival-flow-chart-template-v113.png)
 
 [Template - DBT Crisis Survival - draw.io](drawio-charts/dbtwithariadne-crisis-survival-skills-template.drawio)
 
-Print as PDF or duplicate (needs free account), remix, and share via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Download the file, then edit via [draw.io](https://app.diagrams.net/).
 
 # References
 
@@ -26,6 +26,6 @@ Print as PDF or duplicate (needs free account), remix, and share via [CC0 1.0](h
 
 ---------------------
 
-v2.1 - Last edit 4-Jan-2025
+v2.2 - Last edit 4-Jan-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
