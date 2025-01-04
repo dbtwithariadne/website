@@ -12,7 +12,7 @@ The chart is meant to serve as a printable shorthand in-crisis reminder to use s
 
 Download the file, then edit via [draw.io](https://app.diagrams.net/).
 
-![Template - DBT Crisis Survival](images/dbtwithariadne-crisis-survival-skills-template.drawio-v23.png)
+![Template - DBT Crisis Survival](images/dbtwithariadne-crisis-survival-skills-template.drawio.png)
 
 [Template - DBT Crisis Survival - draw.io](drawio-charts/dbtwithariadne-crisis-survival-skills-template.drawio)
 
