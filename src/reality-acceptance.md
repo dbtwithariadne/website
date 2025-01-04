@@ -1,15 +1,21 @@
-This is a DBT Reality Acceptance flowchart. It uses the skills from Marsha Linehan's book.
-
-These skills are meant to be learned in a DBT skills class, or one-on-one with a therapist (DBT is an entire therapy modality); however, if you have access to neither, the materials are below to explain what each of the skills are.
+This is a DBT Reality Acceptance chart, based in part on Marsha Lineham's book.
 
 The chart is meant to serve as a printable shorthand to help re-train behavior to ease day-to-day emotional turmoil.
 
+The skills and how to use the skills are found in the DBT skills manual.
+
 ![DBT Reality Acceptance Chart](images/dbt_reality_acceptance_chart_v15.png)
 
-[DBT Reality Acceptance - LucidChart](https://lucid.app/lucidchart/fac746a2-2784-4a2c-892d-1925700226bd/edit?invitationId=inv_c764a277-f972-4b45-b8b1-fa33c6dac13b)
+[DBT Reality Acceptance - draw.io](drawio-charts/dbtwithariadne-reality-acceptance-skills.drawio)
+
+# References
+
+[DBT Skills Training Manual, 2nd Ed. Marsha M. Linehan (2015) New York](https://doi.org/10.1097/nmd.0000000000000387)
+
+**Distress Tolerance Handout 10** pg. 341
 
 ---------------------------------
 
-v1.2 - Last edit 17-Oct-2024 
+v2.1 - Last edit 4-Jan-2025 
  
 This work is dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
