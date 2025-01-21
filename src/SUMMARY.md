@@ -6,4 +6,4 @@
 
 ---
 
-[author](author.md)
+[Author](author.md)
