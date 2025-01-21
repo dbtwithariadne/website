@@ -4,4 +4,4 @@ author = "Ariadne"
 
 [output.html]
 cname = "dbtwithariadne.com"
-git-repository-url = "https://github.com/dbtwithariadne/skills"
+git-repository-url = "https://github.com/dbtwithariadne/website"
