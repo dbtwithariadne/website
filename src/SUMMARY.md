@@ -6,4 +6,4 @@
 
 ---
 
-[Who am I Anyway](who-am-i-anyway.md)
+[author](author.md)

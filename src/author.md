@@ -20,7 +20,7 @@ Email: `dbt with ariadne` [at] `gmail` [dot] `com`
 
 -----
 
-v2.5 - Last edit 21-Jan-2025
+v2.6 - Last edit 21-Jan-2025
 
 This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
