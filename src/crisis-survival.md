@@ -2,21 +2,25 @@
 
 This is a DBT Crisis Survival and Distress Tolerance flowchart. It uses the skills from Marsha Linehan's book.
 
-I made it for my fridge, because when I'm in crisis, I can't really remember anything.
+These charts are meant to serve as a printable reminder to use skills vs *making the crisis worse.*
 
-The chart is meant to serve as a printable shorthand in-crisis reminder to use skills vs *making the crisis worse.*
+-----
+
+This is a generic chart, it's not always helpful.
 
 ![DBT Crisis Survival](images/dbtwithariadne-crisis-survival-skills.drawio.png)
 
 [DBT Crisis Survival - draw.io](drawio-charts/dbtwithariadne-crisis-survival-skills.drawio)
 
-Download the file, then edit via [draw.io](https://app.diagrams.net/).
+Download [this chart](drawio-charts/dbtwithariadne-crisis-survival-skills.drawio), then edit via [draw.io](https://app.diagrams.net/).
+
+-----
+
+This is the template. Try different things -- write down what works to help future-you in crisis.
 
 ![Template - DBT Crisis Survival](images/dbtwithariadne-crisis-survival-skills-template.drawio.png)
 
-[Template - DBT Crisis Survival - draw.io](drawio-charts/dbtwithariadne-crisis-survival-skills-template.drawio)
-
-Download the file, then edit via [draw.io](https://app.diagrams.net/).
+Download [this chart](drawio-charts/dbtwithariadne-crisis-survival-skills-template.drawio), then edit via [draw.io](https://app.diagrams.net/).
 
 # References
 
@@ -24,8 +28,8 @@ Download the file, then edit via [draw.io](https://app.diagrams.net/).
 
 **Distress Tolerance Handout 10** pg. 341
 
----------------------
+-----
 
-v2.2 - Last edit 4-Jan-2025
+v2.3 - Last edit 28-Jan-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
