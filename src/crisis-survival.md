@@ -1,20 +1,22 @@
 # DBT Crisis Survival Skills
 
-This is a DBT Crisis Survival and Distress Tolerance flowchart. It uses the skills from Marsha Linehan's book.
+These are DBT Crisis Survival and Distress Tolerance flowcharts. They use the skills from Marsha Linehan's book.
 
 These charts are meant to serve as a printable reminder to use skills vs *making the crisis worse.*
 
 -----
 
+# Generic Chart
+
 This is a generic chart, it's not always helpful.
 
 ![DBT Crisis Survival](images/dbtwithariadne-crisis-survival-skills.drawio.png)
 
-[DBT Crisis Survival - draw.io](drawio-charts/dbtwithariadne-crisis-survival-skills.drawio)
-
 Download [this chart](drawio-charts/dbtwithariadne-crisis-survival-skills.drawio), then edit via [draw.io](https://app.diagrams.net/).
 
 -----
+
+# Template
 
 This is the template. Try different things -- write down what works to help future-you in crisis.
 
