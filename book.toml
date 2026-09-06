@@ -1,6 +1,6 @@
 [book]
 title = "DBT With Ariadne"
-author = "Ariadne"
+authors = ["Ariadne"]
 
 [output.html]
 cname = "dbtwithariadne.com"
