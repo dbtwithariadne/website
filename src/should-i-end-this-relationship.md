@@ -15,6 +15,7 @@ I've added some of my notes as footnotes, since I struggle to understand what Ma
 **Decide to end relationships in WISE MIND, never in emotion mind.**
 
 ---
+
 > ## Destructive Relationships
 > 
 > Destroy or completely spoil these personal qualities:
@@ -44,7 +45,7 @@ I've added some of my notes as footnotes, since I struggle to understand what Ma
 
 [^self-image]: This includes your hobbies, choice of career, friends, and lifestyle.
 
-[^happiness]: Happiness as a felt experience in the body. Light, warm, comfortable, inviting, easy. Carefree, as in free-from drama.
+[^happiness]: Happiness as a felt experience in the body. Light, warm, comfortable, and inviting.
 
 [^peace]: You have a right to a relationship without needless drama, where you can sleep at night, have reasonable expectations of their actions.
 
@@ -82,7 +83,9 @@ I've added some of my notes as footnotes, since I struggle to understand what Ma
 <br>See also the [International Directory of Domestic Violence Agencies](https://www.hotpeachpages.net/).
 
 ## More Articles
-[What is Codependency](https://www.verywellmind.com/what-is-codependency-5072124) - Very Well Mind
-[Needs Inventory](https://www.cnvc.org/training/resource/needs-inventory) - Center for Nonviolent Communication
 
-v1.2 - Last edit 5-Sep-2026
+[What is Codependency](https://www.verywellmind.com/what-is-codependency-5072124) - Very Well Mind
+
+[NVC Needs Inventory](https://duckduckgo.com/?q=nvc+needs+inventory&ia=web) - Center for Nonviolent Communication
+
+v1.3 - Last edit 5-Sep-2026
